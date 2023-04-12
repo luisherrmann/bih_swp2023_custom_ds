@@ -1,4 +1,4 @@
-# BIH Software Project: Custom Datasets
+# BIH Software Project: Custom Datasets Toy Example
 ---
 
 See the Jupyter Notebook for further instructions. 
